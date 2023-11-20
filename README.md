@@ -1,7 +1,5 @@
 TheVoronModder
 
-I love budiling high precision high speed voron's
-
 I currently have the following printers:
 
 LDO rev A/B 2.4 300mm
